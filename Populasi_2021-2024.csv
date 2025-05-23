@@ -1,137 +1,137 @@
 "time","provinsi","jumlah_penduduk"
-"2021-01-01","Aceh",5409.2
-"2022-01-01","Aceh",5334.9
-"2023-01-01","Aceh",5274.9
-"2024-01-01","Aceh",5554.8
-"2021-01-01","Sumatera Utara",15180.5
-"2022-01-01","Sumatera Utara",14970.5
-"2023-01-01","Sumatera Utara",14799.4
-"2024-01-01","Sumatera Utara",15588.5
-"2021-01-01","Sumatera Barat",5677.6
-"2022-01-01","Sumatera Barat",5597.3
-"2023-01-01","Sumatera Barat",5534.5
-"2024-01-01","Sumatera Barat",5836.2
-"2021-01-01","Riau",6555.8
-"2022-01-01","Riau",6466.8
-"2023-01-01","Riau",6394.1
-"2024-01-01","Riau",6728.1
-"2021-01-01","Kep. Riau",2121.5
-"2022-01-01","Kep. Riau",2089.9
-"2023-01-01","Kep. Riau",2064.6
-"2024-01-01","Kep. Riau",2183.3
-"2021-01-01","Jambi",3633.2
-"2022-01-01","Jambi",3586.4
-"2023-01-01","Jambi",3548.2
-"2024-01-01","Jambi",3724.3
-"2021-01-01","Sumatera Selatan",8647.3
-"2022-01-01","Sumatera Selatan",8548.6
-"2023-01-01","Sumatera Selatan",8467.4
-"2024-01-01","Sumatera Selatan",8837.3
-"2021-01-01","Kep. Bangka Belitung",1492.0
-"2022-01-01","Kep. Bangka Belitung",1471.8
-"2023-01-01","Kep. Bangka Belitung",1455.7
-"2024-01-01","Kep. Bangka Belitung",1531.5
-"2021-01-01","Bengkulu",2059.4
-"2022-01-01","Bengkulu",2032.4
-"2023-01-01","Bengkulu",2010.7
-"2024-01-01","Bengkulu",2112.2
-"2021-01-01","Lampung",4496.6
-"2022-01-01","Lampung",4438.6
-"2023-01-01","Lampung",9007.8
-"2024-01-01","Lampung",9419.6
-"2021-01-01","DKI Jakarta",10640.0
-"2022-01-01","DKI Jakarta",10605.4
-"2023-01-01","DKI Jakarta",10562.1
-"2024-01-01","DKI Jakarta",10684.9
-"2021-01-01","Jawa Barat",49306.8
-"2022-01-01","Jawa Barat",48738.8
-"2023-01-01","Jawa Barat",48274.2
-"2024-01-01","Jawa Barat",50345.2
-"2021-01-01","Banten",12167.0
-"2022-01-01","Banten",12023.0
-"2023-01-01","Banten",11904.6
-"2024-01-01","Banten",12431.4
-"2021-01-01","Jawa Tengah",37180.4
-"2022-01-01","Jawa Tengah",36811.1
-"2023-01-01","Jawa Tengah",36516.0
-"2024-01-01","Jawa Tengah",37892.3
-"2021-01-01","DI Yogyakarta",3712.6
-"2022-01-01","DI Yogyakarta",3687.8
-"2023-01-01","DI Yogyakarta",3668.7
-"2024-01-01","DI Yogyakarta",3759.5
-"2021-01-01","Jawa Timur",41230.0
-"2022-01-01","Jawa Timur",40921.1
-"2023-01-01","Jawa Timur",40665.7
-"2024-01-01","Jawa Timur",41814.5
-"2021-01-01","Kalimantan Barat",5549.7
-"2022-01-01","Kalimantan Barat",5474.7
-"2023-01-01","Kalimantan Barat",5414.4
-"2024-01-01","Kalimantan Barat",5695.5
-"2021-01-01","Kalimantan Tengah",2737.2
-"2022-01-01","Kalimantan Tengah",2700.1
-"2023-01-01","Kalimantan Tengah",2670.0
-"2024-01-01","Kalimantan Tengah",2809.7
-"2021-01-01","Kalimantan Selatan",4170.2
-"2022-01-01","Kalimantan Selatan",4116.9
-"2023-01-01","Kalimantan Selatan",4073.6
-"2024-01-01","Kalimantan Selatan",4273.4
-"2021-01-01","Kalimantan Timur",3856.8
-"2022-01-01","Kalimantan Timur",3803.5
-"2023-01-01","Kalimantan Timur",3766.0
-"2024-01-01","Kalimantan Timur",4045.9
-"2021-01-01","Kalimantan Utara",720.1
-"2022-01-01","Kalimantan Utara",710.0
-"2023-01-01","Kalimantan Utara",701.8
-"2024-01-01","Kalimantan Utara",739.8
-"2021-01-01","Sulawesi Utara",2660.8
-"2022-01-01","Sulawesi Utara",2639.5
-"2023-01-01","Sulawesi Utara",2621.9
-"2024-01-01","Sulawesi Utara",2701.8
-"2021-01-01","Gorontalo",1198.4
-"2022-01-01","Gorontalo",1183.5
-"2023-01-01","Gorontalo",1171.7
-"2024-01-01","Gorontalo",1227.8
-"2021-01-01","Sulawesi Tengah",3051.2
-"2022-01-01","Sulawesi Tengah",3015.0
-"2023-01-01","Sulawesi Tengah",2985.7
-"2024-01-01","Sulawesi Tengah",3121.8
-"2021-01-01","Sulawesi Selatan",9260.1
-"2022-01-01","Sulawesi Selatan",9156.9
-"2023-01-01","Sulawesi Selatan",9073.5
-"2024-01-01","Sulawesi Selatan",9463.4
-"2021-01-01","Sulawesi Barat",1458.9
-"2022-01-01","Sulawesi Barat",1436.7
-"2023-01-01","Sulawesi Barat",1419.2
-"2024-01-01","Sulawesi Barat",1503.2
-"2021-01-01","Sulawesi Tenggara",2704.6
-"2022-01-01","Sulawesi Tenggara",2659.9
-"2023-01-01","Sulawesi Tenggara",2624.9
-"2024-01-01","Sulawesi Tenggara",2793.1
-"2021-01-01","Bali",4374.3
-"2022-01-01","Bali",4343.4
-"2023-01-01","Bali",4317.4
-"2024-01-01","Bali",4433.3
-"2021-01-01","Nusa Tenggara Barat",5474.0
-"2022-01-01","Nusa Tenggara Barat",5387.2
-"2023-01-01","Nusa Tenggara Barat",5320.1
-"2024-01-01","Nusa Tenggara Barat",5646
-"2021-01-01","Nusa Tenggara Timur",5481.8
-"2022-01-01","Nusa Tenggara Timur",5394.4
-"2023-01-01","Nusa Tenggara Timur",5325.6
-"2024-01-01","Nusa Tenggara Timur",5656
-"2021-01-01","Maluku",1895.1
-"2022-01-01","Maluku",1869.5
-"2023-01-01","Maluku",1848.9
-"2024-01-01","Maluku",1945.6
-"2021-01-01","Maluku Utara",1318.5
-"2022-01-01","Maluku Utara",1299.6
-"2023-01-01","Maluku Utara",1282.9
-"2024-01-01","Maluku Utara",1355.6
-"2021-01-01","Papua Barat",1168.4
-"2022-01-01","Papua Barat",1149.4
-"2023-01-01","Papua Barat",1134.1
-"2024-01-01","Papua Barat",1205.8
-"2021-01-01","Papua",4429.7
-"2022-01-01","Papua",4356.8
-"2023-01-01","Papua",4303.7
-"2024-01-01","Papua",4542.6
+"2021-01-01 00:00:00 UTC","Aceh","5409.2"
+"2022-01-01 00:00:00 UTC","Aceh","5334.9"
+"2023-01-01 00:00:00 UTC","Aceh","5274.9"
+"2024-01-01 00:00:00 UTC","Aceh","5554.8"
+"2021-01-01 00:00:00 UTC","Sumatera Utara","15180.5"
+"2022-01-01 00:00:00 UTC","Sumatera Utara","14970.5"
+"2023-01-01 00:00:00 UTC","Sumatera Utara","14799.4"
+"2024-01-01 00:00:00 UTC","Sumatera Utara","15588.5"
+"2021-01-01 00:00:00 UTC","Sumatera Barat","5677.6"
+"2022-01-01 00:00:00 UTC","Sumatera Barat","5597.3"
+"2023-01-01 00:00:00 UTC","Sumatera Barat","5534.5"
+"2024-01-01 00:00:00 UTC","Sumatera Barat","5836.2"
+"2021-01-01 00:00:00 UTC","Riau","6555.8"
+"2022-01-01 00:00:00 UTC","Riau","6466.8"
+"2023-01-01 00:00:00 UTC","Riau","6394.1"
+"2024-01-01 00:00:00 UTC","Riau","6728.1"
+"2021-01-01 00:00:00 UTC","Kep. Riau","2121.5"
+"2022-01-01 00:00:00 UTC","Kep. Riau","2089.9"
+"2023-01-01 00:00:00 UTC","Kep. Riau","2064.6"
+"2024-01-01 00:00:00 UTC","Kep. Riau","2183.3"
+"2021-01-01 00:00:00 UTC","Jambi","3633.2"
+"2022-01-01 00:00:00 UTC","Jambi","3586.4"
+"2023-01-01 00:00:00 UTC","Jambi","3548.2"
+"2024-01-01 00:00:00 UTC","Jambi","3724.3"
+"2021-01-01 00:00:00 UTC","Sumatera Selatan","8647.3"
+"2022-01-01 00:00:00 UTC","Sumatera Selatan","8548.6"
+"2023-01-01 00:00:00 UTC","Sumatera Selatan","8467.4"
+"2024-01-01 00:00:00 UTC","Sumatera Selatan","8837.3"
+"2021-01-01 00:00:00 UTC","Kep. Bangka Belitung","1492.0"
+"2022-01-01 00:00:00 UTC","Kep. Bangka Belitung","1471.8"
+"2023-01-01 00:00:00 UTC","Kep. Bangka Belitung","1455.7"
+"2024-01-01 00:00:00 UTC","Kep. Bangka Belitung","1531.5"
+"2021-01-01 00:00:00 UTC","Bengkulu","2059.4"
+"2022-01-01 00:00:00 UTC","Bengkulu","2032.4"
+"2023-01-01 00:00:00 UTC","Bengkulu","2010.7"
+"2024-01-01 00:00:00 UTC","Bengkulu","2112.2"
+"2021-01-01 00:00:00 UTC","Lampung","4496.6"
+"2022-01-01 00:00:00 UTC","Lampung","4438.6"
+"2023-01-01 00:00:00 UTC","Lampung","9007.8"
+"2024-01-01 00:00:00 UTC","Lampung","9419.6"
+"2021-01-01 00:00:00 UTC","DKI Jakarta","10640.0"
+"2022-01-01 00:00:00 UTC","DKI Jakarta","10605.4"
+"2023-01-01 00:00:00 UTC","DKI Jakarta","10562.1"
+"2024-01-01 00:00:00 UTC","DKI Jakarta","10684.9"
+"2021-01-01 00:00:00 UTC","Jawa Barat","49306.8"
+"2022-01-01 00:00:00 UTC","Jawa Barat","48738.8"
+"2023-01-01 00:00:00 UTC","Jawa Barat","48274.2"
+"2024-01-01 00:00:00 UTC","Jawa Barat","50345.2"
+"2021-01-01 00:00:00 UTC","Banten","12167.0"
+"2022-01-01 00:00:00 UTC","Banten","12023.0"
+"2023-01-01 00:00:00 UTC","Banten","11904.6"
+"2024-01-01 00:00:00 UTC","Banten","12431.4"
+"2021-01-01 00:00:00 UTC","Jawa Tengah","37180.4"
+"2022-01-01 00:00:00 UTC","Jawa Tengah","36811.1"
+"2023-01-01 00:00:00 UTC","Jawa Tengah","36516.0"
+"2024-01-01 00:00:00 UTC","Jawa Tengah","37892.3"
+"2021-01-01 00:00:00 UTC","DI Yogyakarta","3712.6"
+"2022-01-01 00:00:00 UTC","DI Yogyakarta","3687.8"
+"2023-01-01 00:00:00 UTC","DI Yogyakarta","3668.7"
+"2024-01-01 00:00:00 UTC","DI Yogyakarta","3759.5"
+"2021-01-01 00:00:00 UTC","Jawa Timur","41230.0"
+"2022-01-01 00:00:00 UTC","Jawa Timur","40921.1"
+"2023-01-01 00:00:00 UTC","Jawa Timur","40665.7"
+"2024-01-01 00:00:00 UTC","Jawa Timur","41814.5"
+"2021-01-01 00:00:00 UTC","Kalimantan Barat","5549.7"
+"2022-01-01 00:00:00 UTC","Kalimantan Barat","5474.7"
+"2023-01-01 00:00:00 UTC","Kalimantan Barat","5414.4"
+"2024-01-01 00:00:00 UTC","Kalimantan Barat","5695.5"
+"2021-01-01 00:00:00 UTC","Kalimantan Tengah","2737.2"
+"2022-01-01 00:00:00 UTC","Kalimantan Tengah","2700.1"
+"2023-01-01 00:00:00 UTC","Kalimantan Tengah","2670.0"
+"2024-01-01 00:00:00 UTC","Kalimantan Tengah","2809.7"
+"2021-01-01 00:00:00 UTC","Kalimantan Selatan","4170.2"
+"2022-01-01 00:00:00 UTC","Kalimantan Selatan","4116.9"
+"2023-01-01 00:00:00 UTC","Kalimantan Selatan","4073.6"
+"2024-01-01 00:00:00 UTC","Kalimantan Selatan","4273.4"
+"2021-01-01 00:00:00 UTC","Kalimantan Timur","3856.8"
+"2022-01-01 00:00:00 UTC","Kalimantan Timur","3803.5"
+"2023-01-01 00:00:00 UTC","Kalimantan Timur","3766.0"
+"2024-01-01 00:00:00 UTC","Kalimantan Timur","4045.9"
+"2021-01-01 00:00:00 UTC","Kalimantan Utara","720.1"
+"2022-01-01 00:00:00 UTC","Kalimantan Utara","710.0"
+"2023-01-01 00:00:00 UTC","Kalimantan Utara","701.8"
+"2024-01-01 00:00:00 UTC","Kalimantan Utara","739.8"
+"2021-01-01 00:00:00 UTC","Sulawesi Utara","2660.8"
+"2022-01-01 00:00:00 UTC","Sulawesi Utara","2639.5"
+"2023-01-01 00:00:00 UTC","Sulawesi Utara","2621.9"
+"2024-01-01 00:00:00 UTC","Sulawesi Utara","2701.8"
+"2021-01-01 00:00:00 UTC","Gorontalo","1198.4"
+"2022-01-01 00:00:00 UTC","Gorontalo","1183.5"
+"2023-01-01 00:00:00 UTC","Gorontalo","1171.7"
+"2024-01-01 00:00:00 UTC","Gorontalo","1227.8"
+"2021-01-01 00:00:00 UTC","Sulawesi Tengah","3051.2"
+"2022-01-01 00:00:00 UTC","Sulawesi Tengah","3015.0"
+"2023-01-01 00:00:00 UTC","Sulawesi Tengah","2985.7"
+"2024-01-01 00:00:00 UTC","Sulawesi Tengah","3121.8"
+"2021-01-01 00:00:00 UTC","Sulawesi Selatan","9260.1"
+"2022-01-01 00:00:00 UTC","Sulawesi Selatan","9156.9"
+"2023-01-01 00:00:00 UTC","Sulawesi Selatan","9073.5"
+"2024-01-01 00:00:00 UTC","Sulawesi Selatan","9463.4"
+"2021-01-01 00:00:00 UTC","Sulawesi Barat","1458.9"
+"2022-01-01 00:00:00 UTC","Sulawesi Barat","1436.7"
+"2023-01-01 00:00:00 UTC","Sulawesi Barat","1419.2"
+"2024-01-01 00:00:00 UTC","Sulawesi Barat","1503.2"
+"2021-01-01 00:00:00 UTC","Sulawesi Tenggara","2704.6"
+"2022-01-01 00:00:00 UTC","Sulawesi Tenggara","2659.9"
+"2023-01-01 00:00:00 UTC","Sulawesi Tenggara","2624.9"
+"2024-01-01 00:00:00 UTC","Sulawesi Tenggara","2793.1"
+"2021-01-01 00:00:00 UTC","Bali","4374.3"
+"2022-01-01 00:00:00 UTC","Bali","4343.4"
+"2023-01-01 00:00:00 UTC","Bali","4317.4"
+"2024-01-01 00:00:00 UTC","Bali","4433.3"
+"2021-01-01 00:00:00 UTC","Nusa Tenggara Barat","5474.0"
+"2022-01-01 00:00:00 UTC","Nusa Tenggara Barat","5387.2"
+"2023-01-01 00:00:00 UTC","Nusa Tenggara Barat","5320.1"
+"2024-01-01 00:00:00 UTC","Nusa Tenggara Barat","5646"
+"2021-01-01 00:00:00 UTC","Nusa Tenggara Timur","5481.8"
+"2022-01-01 00:00:00 UTC","Nusa Tenggara Timur","5394.4"
+"2023-01-01 00:00:00 UTC","Nusa Tenggara Timur","5325.6"
+"2024-01-01 00:00:00 UTC","Nusa Tenggara Timur","5656"
+"2021-01-01 00:00:00 UTC","Maluku","1895.1"
+"2022-01-01 00:00:00 UTC","Maluku","1869.5"
+"2023-01-01 00:00:00 UTC","Maluku","1848.9"
+"2024-01-01 00:00:00 UTC","Maluku","1945.6"
+"2021-01-01 00:00:00 UTC","Maluku Utara","1318.5"
+"2022-01-01 00:00:00 UTC","Maluku Utara","1299.6"
+"2023-01-01 00:00:00 UTC","Maluku Utara","1282.9"
+"2024-01-01 00:00:00 UTC","Maluku Utara","1355.6"
+"2021-01-01 00:00:00 UTC","Papua Barat","1168.4"
+"2022-01-01 00:00:00 UTC","Papua Barat","1149.4"
+"2023-01-01 00:00:00 UTC","Papua Barat","1134.1"
+"2024-01-01 00:00:00 UTC","Papua Barat","1205.8"
+"2021-01-01 00:00:00 UTC","Papua","4429.7"
+"2022-01-01 00:00:00 UTC","Papua","4356.8"
+"2023-01-01 00:00:00 UTC","Papua","4303.7"
+"2024-01-01 00:00:00 UTC","Papua","4542.6"
